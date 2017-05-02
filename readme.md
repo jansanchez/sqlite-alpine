@@ -1,7 +1,7 @@
 # **sqlite-alpine**
 
-An Image for Node.js based in Debian Alpine
-cd
+An Image for SQLite based in Debian Alpine
+
 ## Run + bash (temporaly)
 ```
 docker run -it --rm jansanchez/sqlite-alpine sh
